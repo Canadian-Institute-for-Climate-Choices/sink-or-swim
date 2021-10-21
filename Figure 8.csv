@@ -1,0 +1,17 @@
+﻿Sector,profit_impact,percentile_10,percentile_90
+Solar and wind equipment,0.53,0.32,0.68
+Fuel cells,0.68,0.60,0.82
+Biofuels,1.49,0.62,2.66
+Batteries & storage,0.77,0.47,0.90
+Uranium,0.21,-1.00,0.57
+Mining and mineral products,-0.22,-1.00,0.54
+"Chemical, plastic, and rubber materials",-0.06,-0.24,0.27
+Aluminum,-0.14,-0.93,0.96
+Iron & steel,-0.59,-1.00,1.56
+Airlines,-0.33,-0.96,0.35
+"Cement, concrete, aggregates, etc.",-0.44,-1.00,1.26
+Downstream & midstream O&G,-0.43,-0.70,-0.10
+Oil and gas exploration and production,-0.58,-1.00,-0.02
+"Auto manufacturing, parts, etc.",-0.45,-0.83,0.86
+Heavy duty vehicle manufacturing,-0.83,-0.84,-0.83
+Coal mining,-0.99,-1.00,-0.98

@@ -1,0 +1,7 @@
+﻿Sector,Demand decline,Demand creation,Carbon costs,Abatement,Cost pass-through
+Fuel cells,0,0.7,-0.31,0.23,0.06
+Batteries & storage,0,0.76,-0.55,0.44,0.09
+Mining and mineral products,-0.03,0.02,-0.62,0.24,0.25
+Aluminum,0,0,-0.8,0.29,0.41
+Oil & gas exploration & production,-0.65,0,-0.33,0.01,0.3
+Coal mining,-0.99,0,-0.01,0,0.01
